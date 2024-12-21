@@ -42,8 +42,16 @@ I am a data-driven professional with a strong background in data analytics, mach
 - **Bachelor’s in Applied Mathematics**, University of California, Los Angeles (June 2021)
 
 ---
+## **Me Beyond the Data**
+## **Me Beyond the Data**
+
+When I’m not diving into datasets, you’ll find me immersed in two of my biggest passions: **playing the piano** and **gaming**. As a startup content creator, I love uploading meme videos of my gameplay to share a laugh and connect with the gaming community.
+For me, practicing piano feels a lot like analyzing data. Reading music sheets is about discovering patterns, practicing tirelessly, and eventually creating something amazing—just like finding insights in a dataset! Both require dedication, creativity, and a love for uncovering hidden stories.
+Whether it’s crafting melodies or memes, these hobbies remind me to balance the logical with the creative and bring joy to both work and play.
+
+---
 
 ## **Contact**
 - **Email**: [hansonwtbruin@g.ucla.edu](mailto:hansonwtbruin@g.ucla.edu)
-- **LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/honghao-hanson-wang-9b6a701a3/)](#)
+- **LinkedIn**: [[My LinkedIn Profile](https://www.linkedin.com/in/honghao-hanson-wang-9b6a701a3/)](#)
 - **GitHub**: [Your GitHub Profile](#)
