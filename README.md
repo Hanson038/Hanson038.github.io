@@ -1,6 +1,7 @@
 # **Honghao (Hanson) Wang**
 
 ## **About Me**
+!(img/Profile_Pic.png)
 I am a data-driven professional with a strong background in data analytics, machine learning, and statistical modeling. With hands-on experience in analyzing complex datasets and delivering actionable insights, I thrive in dynamic environments where creativity and problem-solving converge. My passion lies in leveraging data to drive impactful decisions and optimizing strategies for business growth.
 
 ---
