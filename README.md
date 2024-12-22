@@ -10,6 +10,17 @@
 
 ---
 
+## **Highlighted Projects**
+### **Past Projects**
+- [**Naïve Bayes for Student Locations Prediction**](https://github.com/Hanson038/Hanson038.github.io/blob/827067c21510126dcf5345c1fcb0c572553e00f8/Project/Final_Project_Report.pdf): Implemented Naive Bayes to predict student locations, considering challenges posed by online classes during pandemic.
+
+### **Future Projects**
+- [**Chrome Browse History Analyzer**](#): This is the current project that I'm working on right now. The goal of this project is to gain a deeper insight for each person's browsing history when they use Chrome. The analyzer will generate dashboard for user to visualize their browsing history and potentially change their habits.
+- [**Auto finger Music sheet generator**](#): TBD, small fun ML project aims for better way to practice piano. This will provide finger number for any piano music sheet that it's extremly useful for people that struggle in practing/learning piano
+  
+---
+
+
 ## **Professional Experience**
 
 ### **Data Analyst/Scientist Intern – Evergreen Investment**
@@ -29,16 +40,6 @@
 - Developed dashboards with Python and BI tools to monitor popular topics and trending games, enabling data-driven marketing strategies.
 - Improved user engagement by 25% and optimized marketing ROI by 20% through actionable insights.
 
----
-
-
-## **Highlighted Projects**
-### **Past Projects**
-- [**Naïve Bayes for Student Locations Prediction**](https://github.com/Hanson038/Hanson038.github.io/blob/827067c21510126dcf5345c1fcb0c572553e00f8/Project/Final_Project_Report.pdf): Implemented Naive Bayes to predict student locations, considering challenges posed by online classes during pandemic.
-
-### **Future Projects**
-- [**Chrome Browse History Analyzer**](#): This is the current project that I'm working on right now. The goal of this project is to gain a deeper insight for each person's browsing history when they use Chrome. The analyzer will generate dashboard for user to visualize their browsing history and potentially change their habits.
-- [**Auto finger Music sheet generator**](#): TBD, small fun ML project aims for better way to practice piano. This will provide finger number for any piano music sheet that it's extremly useful for people that struggle in practing/learning piano
 
 ---
 
