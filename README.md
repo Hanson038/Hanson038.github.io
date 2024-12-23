@@ -50,8 +50,8 @@
 ---
 ## **Me Beyond the Data**
 
-Besides sticking with data, you’ll find me immersed in two of my biggest passions: **playing the piano** and **gaming**. As a startup content creator, I love uploading meme videos of my gameplay to share a laugh and connect with the gaming community!
-Also for me, practicing piano feels a lot like analyzing data. Reading music sheets is about discovering patterns too! You keep practice and practice and eventually you will creating something amazing—just like finding insights in a dataset! Both require dedication, creativity, and a love for uncovering hidden stories.
+Besides sticking with data, I also love playing the piano!
+Practicing piano feels a lot like analyzing data. Reading music sheets is about discovering patterns too! You keep practice and practice and eventually you will creating something amazing—just like finding insights in a dataset! Both require dedication, creativity, and a love for uncovering hidden stories.
 Whether it’s crafting melodies or memes, these hobbies remind me to balance the logical with the creative and bring joy to both work and play.
 
 ---
