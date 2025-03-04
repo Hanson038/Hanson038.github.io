@@ -24,28 +24,27 @@
 ## **Professional Experience**
 
 ### **Data Analyst/Scientist Intern – Evergreen Investment**
-- Developed and optimized Decision Trees and Support Vector Machines (SVM) to classify real estate tickets, increasing processing efficiency by 40% and reducing response time by 25%.
-- Conducted hypothesis testing for new product launches, comparing variants to determine sales impact, and improving product success rates by 26%.
-- Built scalable data scrapers to integrate real estate ticket information into Zoho Creator CASA, enhancing data accuracy and reducing discrepancies.
+- Built a Python-based data scraper to extract real estate ticket data, integrating it into Zoho Creator via SQL queries, improving data accuracy by 30% over manual entry.
+- Implemented rigorous data validation checks to ensure the integrity and accuracy of the integrated data, reducing discrepancies by over 30%.
+- Developed and applied Decision Trees and Support Vector Machines (SVM) to classify real estate tickets into categories, resulting in a 40% increase in processing efficiency and a 25% reduction in response time.
 
 ### **Data Analyst – XSQUARED TEA INC**
-- Designed machine learning models (Decision Trees) to forecast customer lifetime value (CLV) and improve decision-making in Python.
-- Implemented Logistic Regression to predict customer conversions, achieving an accuracy of 85%.
-- Conducted hypothesis testing for new product launches to compare product variants and improve overall product success rates.
-- Provided actionable insights to optimize marketing strategies, resulting in a 20% increase in marketing ROI.
+- Built and automated daily, weekly, and monthly Power BI dashboards using SQL for sales forecasts, helping increase revenue 15% with better inventory moves.
+- Designed and conducted A/B tests for new launched products, analyzing results with SQL and Python to identify top performers, improving product success rates by 26%.
+- Implemented Logistic Regression to predict customer conversions (by predicting the conversion rate of in-store and event customer) and achieved the best accuracy of 85%.
 
 ### **Data Analyst Intern – Tencent Games**
 - Performed market capacity analysis for the Chinese mobile game industry using open-source data scraped from gaming websites and forums.
 - Built pipelines for exploratory data analysis (EDA) to identify top user interests and behaviors.
 - Developed dashboards with Python and BI tools to monitor popular topics and trending games, enabling data-driven marketing strategies.
-- Improved user engagement by 25% and optimized marketing ROI by 20% through actionable insights.
+- Provided business recommendations and improved marketing ROI by 20% through EDA and actionable insights
 
 
 ---
 
 ## **Education**
-- **Master’s in Data Science**, University of California, Irvine (December 2024)
-- **Bachelor’s in Applied Mathematics**, University of California, Los Angeles (June 2021)
+- Master’s in Data Science, **University of California, Irvine** (December 2024)
+- Bachelor’s in Applied Mathematics, **University of California, Los Angeles** (June 2021)
 
 ---
 ## **Me Beyond the Data**
@@ -60,3 +59,4 @@ Whether it’s crafting melodies or memes, these hobbies remind me to balance th
 - **Email**: [hansonwtbruin@g.ucla.edu](mailto:hansonwtbruin@g.ucla.edu)
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/honghao-hanson-wang-9b6a701a3/)
 - **GitHub**: [My Github page](https://github.com/Hanson038)
+- **Resume**: [Download My Resume (PDF)](https://drive.google.com/file/d/1exiQl6fRVOtWDmrh0l0cH7oo4OXaNgwt/view?usp=sharing)
