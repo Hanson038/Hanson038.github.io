@@ -4,7 +4,7 @@
 <div style="display: flex; align-items: center;">
   <img src="img/Profile_Pic.png" alt="Profile Picture" width="200" style="margin-right: 20px;">
   <p>
-    I am a data-driven professional with a strong background in data analytics, machine learning, and statistical modeling. With hands-on experience in analyzing complex datasets and delivering actionable insights, I thrive in dynamic environments where creativity and problem-solving converge. My passion lies in leveraging data to drive impactful decisions and optimizing strategies for business growth.
+    Hi there! I’m obsessed with how data can make actionable insights when it’s used the right way—turning raw numbers into decisions that really matter. <strong>With a Master’s in Data Science from UCI (’24) and a Bachelor’s in Applied Math from UCLA (’21)</strong>, I’ve built strong <strong>skills in Python, SQL, and Tableau</strong>, delivering results like <strong>boosting sales at XSQUARED TEA INC and improving marketing ROI at Tencent Games</strong>. I thrive in dynamic environments, using creativity and problem-solving to drive business growth!
   </p>
 </div>
 
