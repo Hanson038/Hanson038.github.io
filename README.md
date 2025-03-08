@@ -57,6 +57,6 @@ Whether it’s crafting melodies or memes, these hobbies remind me to balance th
 
 ## **Contact**
 - **Email**: [hansonwtbruin@g.ucla.edu](mailto:hansonwtbruin@g.ucla.edu)
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/honghao-hanson-wang-9b6a701a3/)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/hanson-wang-9b6a701a3/)
 - **GitHub**: [My Github page](https://github.com/Hanson038)
 - **Resume**: [Download My Resume (PDF)](https://drive.google.com/file/d/1exiQl6fRVOtWDmrh0l0cH7oo4OXaNgwt/view?usp=sharing)
