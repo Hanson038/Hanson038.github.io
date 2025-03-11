@@ -4,7 +4,7 @@
 <div style="display: flex; align-items: center;">
   <img src="img/Profile_Pic.png" alt="Profile Picture" width="200" style="margin-right: 20px;">
   <p>
-    Hi there! I’m obsessed with how data can make actionable insights when it’s used the right way—turning raw numbers into decisions that really matter. <strong>With a Master’s in Data Science from UCI (’24) and a Bachelor’s in Applied Math from UCLA (’21)</strong>, I’ve built strong <strong>skills in Python, SQL, and Tableau</strong>, delivering results like <strong>boosting sales at XSQUARED TEA INC and improving marketing ROI at Tencent Games</strong>. I thrive in dynamic environments, using creativity and problem-solving to drive business growth!
+    Hi there! I’m obsessed with how data can make actionable insights when it’s used the right way—turning raw numbers into decisions that really matter. <strong>With a Master’s in Data Science from UCI (’24) and a Bachelor’s in Applied Math from UCLA (’21)</strong>, I’ve built strong <strong>skills in Python, SQL, and Tableau</strong>. During my time at XSQUARE TEA INC, I used SQL and Power BI to help increase sales by 15% through better inventory planning. At Tencent Games, I analyzed gaming trends with Python, boosting marketing ROI by 20%. I love tackling problems in a fast-paced environment, where I can get creative and help businesses grow with data!
   </p>
 </div>
 
